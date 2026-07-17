@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#10283f">
+  <title>PSE-Quartett</title>
+  <link rel="manifest" href="/manifest.webmanifest">
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Zum Spiel springen</a>
+  <header class="topbar">
+    <div class="brand"><span class="brand-symbol">PSE</span><span><strong>Elemente-Quartett</strong><small>Chemie · Jahrgangsstufe 8</small></span></div>
+    <nav class="toolbar" aria-label="Einstellungen">
+      <button id="helpBtn" class="icon-btn" aria-label="Spielhilfe">?</button>
+      <button id="learnBtn" class="icon-btn" aria-pressed="true" aria-label="Lernhinweise umschalten">L</button>
+      <button id="soundBtn" class="icon-btn" aria-pressed="false" aria-label="Ton umschalten">♪</button>
+    </nav>
+  </header>
+
+  <main id="main" class="app-shell">
+    <section id="homeView" class="view home-view">
+      <div class="hero panel">
+        <div>
+          <p class="eyebrow">Gemeinsam spielen · Elemente vergleichen</p>
+          <h1>Wer hat das stärkste Element?</h1>
+          <p class="lead">2 bis 5 Personen spielen über einen gemeinsamen sechsstelligen Code. In jeder Kategorie gewinnt der höhere Wert.</p>
+          <div class="rule-pills"><span>⚛ 34 Karten</span><span>→ Gewinner</span><span>← Verlierer</span></div>
+        </div>
+        <div class="atom-hero" aria-hidden="true"><span>Xe</span><i></i><i></i><i></i></div>
+      </div>
+      <div class="entry-grid">
+        <form id="createForm" class="panel entry-card">
+          <p class="step">01</p><h2>Spiel erstellen</h2>
+          <label>Dein Anzeigename<input id="createName" maxlength="24" autocomplete="nickname" required placeholder="z. B. Mia"></label>
+          <button class="primary" type="submit">Raum erstellen</button>
+        </form>
+        <form id="joinForm" class="panel entry-card">
+          <p class="step">02</p><h2>Mit Code beitreten</h2>
+          <label>Spielcode<input id="joinCode" maxlength="6" inputmode="text" autocapitalize="characters" required placeholder="ABC234"></label>
+          <label>Dein Anzeigename<input id="joinName" maxlength="24" autocomplete="nickname" required placeholder="z. B. Jonas"></label>
+          <button class="secondary" type="submit">Beitreten</button>
+        </form>
+      </div>
+    </section>
+
+    <section id="lobbyView" class="view hidden">
+      <div class="lobby-grid">
+        <div class="panel code-panel"><p class="eyebrow">Spielcode</p><button id="copyCode" class="room-code" title="Code kopieren">------</button><p>Alle öffnen diese Seite und geben den Code ein.</p><div id="lobbyStatus" class="connection-note"></div></div>
+        <div class="panel"><div class="section-head"><div><p class="eyebrow">Lobby</p><h2>Mitspieler</h2></div><span id="playerCount" class="count-badge">1/5</span></div><div id="lobbyPlayers" class="lobby-list"></div><div class="lobby-actions"><button id="startBtn" class="primary">Spiel starten</button><button id="leaveBtn" class="ghost">Sitzung verlassen</button></div></div>
+      </div>
+    </section>
+
+    <section id="gameView" class="view hidden">
+      <div class="game-hud panel"><div><span class="eyebrow">Raum</span><button id="gameCode" class="mini-code">------</button></div><div><span class="eyebrow">Runde</span><strong id="roundNo">1</strong></div><div><span class="eyebrow">Pot</span><strong id="potCount">0</strong></div><div><span class="eyebrow">Reserve</span><strong id="reserveCount">0</strong></div><button id="abortBtn" class="ghost danger hidden">Spiel abbrechen</button></div>
+      <div id="playerStrip" class="player-strip" aria-label="Kartenstände"></div>
+      <div id="statusBanner" class="status-banner" role="status"></div>
+      <div id="gameStage" class="game-stage"></div>
+    </section>
+  </main>
+
+  <div id="toast" class="toast" role="alert" aria-live="assertive"></div>
+  <dialog id="helpDialog"><div class="dialog-head"><h2>So funktioniert das Spiel</h2><button class="icon-btn close-dialog" aria-label="Schließen">×</button></div><ol><li>Der aktive Spieler wählt eine Größe seiner obersten Karte.</li><li>Alle Karten werden aufgedeckt. Der höchste Zahlenwert gewinnt.</li><li>Gewinner bestätigen mit → oder Wisch nach rechts, Verlierer mit ← oder Wisch nach links.</li><li>Bei Gleichstand folgt ein Stechen. Wer alle aktiven Karten besitzt, gewinnt.</li></ol><p><strong>Faire Verteilung:</strong> Bei 3 bis 5 Spielern liegen einige zufällig gewählte Karten verdeckt in der Reserve.</p><p class="source-note">Stoffdaten: pgf-PeriodicTable; fachlicher Abgleich über PubChem und NIST. Werte sind schülergerecht gerundet und können je nach Messbedingungen oder Modifikation variieren.</p></dialog>
+  <script src="/static/app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,1430 @@
+[
+  {
+    "id": "h",
+    "name": "Wasserstoff",
+    "symbol": "H",
+    "atomicNumber": 1,
+    "period": 1,
+    "group": 1,
+    "mainGroup": "I",
+    "elementFamily": "Nichtmetall",
+    "familyPlural": "Nichtmetalle",
+    "familyColor": "#f4c95d",
+    "standardState": "gasförmig",
+    "molarMass": 1.008,
+    "meltingPoint": -259.16,
+    "boilingPoint": -252.879,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 0.08988,
+    "densityUnit": "g/L",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 1,
+    "valenceElectrons": 1,
+    "occupiedShells": 1,
+    "firstIonizationEnergy": 1312.0,
+    "atomicRadius": 53.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 0.08988
+  },
+  {
+    "id": "he",
+    "name": "Helium",
+    "symbol": "He",
+    "atomicNumber": 2,
+    "period": 1,
+    "group": 18,
+    "mainGroup": "VIII",
+    "elementFamily": "Edelgas",
+    "familyPlural": "Edelgase",
+    "familyColor": "#c4b98c",
+    "standardState": "gasförmig",
+    "molarMass": 4.0026,
+    "meltingPoint": null,
+    "boilingPoint": -268.928,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 0.1786,
+    "densityUnit": "g/L",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 2,
+    "valenceElectrons": 2,
+    "occupiedShells": 1,
+    "firstIonizationEnergy": 2372.3,
+    "atomicRadius": 31.0,
+    "note": "Helium erstarrt bei Normaldruck nicht; deshalb ist kein normaler Schmelzpunkt angegeben.",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 0.1786
+  },
+  {
+    "id": "li",
+    "name": "Lithium",
+    "symbol": "Li",
+    "atomicNumber": 3,
+    "period": 2,
+    "group": 1,
+    "mainGroup": "I",
+    "elementFamily": "Alkalimetall",
+    "familyPlural": "Alkalimetalle",
+    "familyColor": "#f4c95d",
+    "standardState": "fest",
+    "molarMass": 6.94,
+    "meltingPoint": 180.5,
+    "boilingPoint": 1330.0,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 0.534,
+    "densityUnit": "g/cm³",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 3,
+    "valenceElectrons": 1,
+    "occupiedShells": 2,
+    "firstIonizationEnergy": 520.2,
+    "atomicRadius": 167.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 534.0
+  },
+  {
+    "id": "be",
+    "name": "Beryllium",
+    "symbol": "Be",
+    "atomicNumber": 4,
+    "period": 2,
+    "group": 2,
+    "mainGroup": "II",
+    "elementFamily": "Erdalkalimetall",
+    "familyPlural": "Erdalkalimetalle",
+    "familyColor": "#ef8d67",
+    "standardState": "fest",
+    "molarMass": 9.0122,
+    "meltingPoint": 1287.0,
+    "boilingPoint": 2469.0,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 1.85,
+    "densityUnit": "g/cm³",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 4,
+    "valenceElectrons": 2,
+    "occupiedShells": 2,
+    "firstIonizationEnergy": 899.5,
+    "atomicRadius": 112.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 1850.0
+  },
+  {
+    "id": "b",
+    "name": "Bor",
+    "symbol": "B",
+    "atomicNumber": 5,
+    "period": 2,
+    "group": 13,
+    "mainGroup": "III",
+    "elementFamily": "Borgruppe",
+    "familyPlural": "Borgruppe",
+    "familyColor": "#e9a6c9",
+    "standardState": "fest",
+    "molarMass": 10.81,
+    "meltingPoint": 2076.0,
+    "boilingPoint": 3927.0,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 2.34,
+    "densityUnit": "g/cm³",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 5,
+    "valenceElectrons": 3,
+    "occupiedShells": 2,
+    "firstIonizationEnergy": 800.6,
+    "atomicRadius": 87.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 2340.0
+  },
+  {
+    "id": "c",
+    "name": "Kohlenstoff",
+    "symbol": "C",
+    "atomicNumber": 6,
+    "period": 2,
+    "group": 14,
+    "mainGroup": "IV",
+    "elementFamily": "Kohlenstoffgruppe",
+    "familyPlural": "Kohlenstoffgruppe",
+    "familyColor": "#9fc8df",
+    "standardState": "fest",
+    "molarMass": 12.011,
+    "meltingPoint": 3550.0,
+    "boilingPoint": 4027.0,
+    "sublimationPoint": 4027.0,
+    "phaseTransitionLabel": "Sublimation/Phasenübergang",
+    "density": 2.267,
+    "densityUnit": "g/cm³",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 6,
+    "valenceElectrons": 4,
+    "occupiedShells": 2,
+    "firstIonizationEnergy": 1086.5,
+    "atomicRadius": 67.0,
+    "note": "Kohlenstoff zeigt druck- und modifikationsabhängige Phasenübergänge.",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 2267.0
+  },
+  {
+    "id": "n",
+    "name": "Stickstoff",
+    "symbol": "N",
+    "atomicNumber": 7,
+    "period": 2,
+    "group": 15,
+    "mainGroup": "V",
+    "elementFamily": "Stickstoffgruppe",
+    "familyPlural": "Stickstoffgruppe",
+    "familyColor": "#c5a1d7",
+    "standardState": "gasförmig",
+    "molarMass": 14.007,
+    "meltingPoint": -210.0,
+    "boilingPoint": -195.795,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 1.251,
+    "densityUnit": "g/L",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 7,
+    "valenceElectrons": 5,
+    "occupiedShells": 2,
+    "firstIonizationEnergy": 1402.3,
+    "atomicRadius": 56.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 1.251
+  },
+  {
+    "id": "o",
+    "name": "Sauerstoff",
+    "symbol": "O",
+    "atomicNumber": 8,
+    "period": 2,
+    "group": 16,
+    "mainGroup": "VI",
+    "elementFamily": "Erzbildner",
+    "familyPlural": "Chalkogene",
+    "familyColor": "#b5cf98",
+    "standardState": "gasförmig",
+    "molarMass": 15.999,
+    "meltingPoint": -218.79,
+    "boilingPoint": -182.962,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 1.429,
+    "densityUnit": "g/L",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 8,
+    "valenceElectrons": 6,
+    "occupiedShells": 2,
+    "firstIonizationEnergy": 1313.9,
+    "atomicRadius": 48.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 1.429
+  },
+  {
+    "id": "f",
+    "name": "Fluor",
+    "symbol": "F",
+    "atomicNumber": 9,
+    "period": 2,
+    "group": 17,
+    "mainGroup": "VII",
+    "elementFamily": "Halogen",
+    "familyPlural": "Halogene",
+    "familyColor": "#5db8c3",
+    "standardState": "gasförmig",
+    "molarMass": 18.998,
+    "meltingPoint": -219.67,
+    "boilingPoint": -188.11,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 1.7,
+    "densityUnit": "g/L",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 9,
+    "valenceElectrons": 7,
+    "occupiedShells": 2,
+    "firstIonizationEnergy": 1681.0,
+    "atomicRadius": 42.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 1.7
+  },
+  {
+    "id": "ne",
+    "name": "Neon",
+    "symbol": "Ne",
+    "atomicNumber": 10,
+    "period": 2,
+    "group": 18,
+    "mainGroup": "VIII",
+    "elementFamily": "Edelgas",
+    "familyPlural": "Edelgase",
+    "familyColor": "#c4b98c",
+    "standardState": "gasförmig",
+    "molarMass": 20.18,
+    "meltingPoint": -248.59,
+    "boilingPoint": -246.046,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 0.9002,
+    "densityUnit": "g/L",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 10,
+    "valenceElectrons": 8,
+    "occupiedShells": 2,
+    "firstIonizationEnergy": 2080.7,
+    "atomicRadius": 38.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 0.9002
+  },
+  {
+    "id": "na",
+    "name": "Natrium",
+    "symbol": "Na",
+    "atomicNumber": 11,
+    "period": 3,
+    "group": 1,
+    "mainGroup": "I",
+    "elementFamily": "Alkalimetall",
+    "familyPlural": "Alkalimetalle",
+    "familyColor": "#f4c95d",
+    "standardState": "fest",
+    "molarMass": 22.99,
+    "meltingPoint": 97.794,
+    "boilingPoint": 882.94,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 0.968,
+    "densityUnit": "g/cm³",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 11,
+    "valenceElectrons": 1,
+    "occupiedShells": 3,
+    "firstIonizationEnergy": 495.8,
+    "atomicRadius": 190.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 968.0
+  },
+  {
+    "id": "mg",
+    "name": "Magnesium",
+    "symbol": "Mg",
+    "atomicNumber": 12,
+    "period": 3,
+    "group": 2,
+    "mainGroup": "II",
+    "elementFamily": "Erdalkalimetall",
+    "familyPlural": "Erdalkalimetalle",
+    "familyColor": "#ef8d67",
+    "standardState": "fest",
+    "molarMass": 24.305,
+    "meltingPoint": 650.0,
+    "boilingPoint": 1090.0,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 1.738,
+    "densityUnit": "g/cm³",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 12,
+    "valenceElectrons": 2,
+    "occupiedShells": 3,
+    "firstIonizationEnergy": 737.7,
+    "atomicRadius": 145.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 1738.0
+  },
+  {
+    "id": "al",
+    "name": "Aluminium",
+    "symbol": "Al",
+    "atomicNumber": 13,
+    "period": 3,
+    "group": 13,
+    "mainGroup": "III",
+    "elementFamily": "Borgruppe",
+    "familyPlural": "Borgruppe",
+    "familyColor": "#e9a6c9",
+    "standardState": "fest",
+    "molarMass": 26.982,
+    "meltingPoint": 660.32,
+    "boilingPoint": 2470.0,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 2.7,
+    "densityUnit": "g/cm³",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 13,
+    "valenceElectrons": 3,
+    "occupiedShells": 3,
+    "firstIonizationEnergy": 577.5,
+    "atomicRadius": 118.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 2700.0
+  },
+  {
+    "id": "si",
+    "name": "Silicium",
+    "symbol": "Si",
+    "atomicNumber": 14,
+    "period": 3,
+    "group": 14,
+    "mainGroup": "IV",
+    "elementFamily": "Kohlenstoffgruppe",
+    "familyPlural": "Kohlenstoffgruppe",
+    "familyColor": "#9fc8df",
+    "standardState": "fest",
+    "molarMass": 28.085,
+    "meltingPoint": 1414.0,
+    "boilingPoint": 3265.0,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 2.33,
+    "densityUnit": "g/cm³",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 14,
+    "valenceElectrons": 4,
+    "occupiedShells": 3,
+    "firstIonizationEnergy": 786.5,
+    "atomicRadius": 111.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 2330.0
+  },
+  {
+    "id": "p",
+    "name": "Phosphor",
+    "symbol": "P",
+    "atomicNumber": 15,
+    "period": 3,
+    "group": 15,
+    "mainGroup": "V",
+    "elementFamily": "Stickstoffgruppe",
+    "familyPlural": "Stickstoffgruppe",
+    "familyColor": "#c5a1d7",
+    "standardState": "fest",
+    "molarMass": 30.974,
+    "meltingPoint": 44.15,
+    "boilingPoint": 277.0,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 1.823,
+    "densityUnit": "g/cm³",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 15,
+    "valenceElectrons": 5,
+    "occupiedShells": 3,
+    "firstIonizationEnergy": 1011.8,
+    "atomicRadius": 98.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 1823.0
+  },
+  {
+    "id": "s",
+    "name": "Schwefel",
+    "symbol": "S",
+    "atomicNumber": 16,
+    "period": 3,
+    "group": 16,
+    "mainGroup": "VI",
+    "elementFamily": "Erzbildner",
+    "familyPlural": "Chalkogene",
+    "familyColor": "#b5cf98",
+    "standardState": "fest",
+    "molarMass": 32.06,
+    "meltingPoint": 115.21,
+    "boilingPoint": 444.6,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 1.96,
+    "densityUnit": "g/cm³",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 16,
+    "valenceElectrons": 6,
+    "occupiedShells": 3,
+    "firstIonizationEnergy": 999.6,
+    "atomicRadius": 88.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 1960.0
+  },
+  {
+    "id": "cl",
+    "name": "Chlor",
+    "symbol": "Cl",
+    "atomicNumber": 17,
+    "period": 3,
+    "group": 17,
+    "mainGroup": "VII",
+    "elementFamily": "Halogen",
+    "familyPlural": "Halogene",
+    "familyColor": "#5db8c3",
+    "standardState": "gasförmig",
+    "molarMass": 35.45,
+    "meltingPoint": -101.5,
+    "boilingPoint": -34.04,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 3.2,
+    "densityUnit": "g/L",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 17,
+    "valenceElectrons": 7,
+    "occupiedShells": 3,
+    "firstIonizationEnergy": 1251.2,
+    "atomicRadius": 79.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 3.2
+  },
+  {
+    "id": "ar",
+    "name": "Argon",
+    "symbol": "Ar",
+    "atomicNumber": 18,
+    "period": 3,
+    "group": 18,
+    "mainGroup": "VIII",
+    "elementFamily": "Edelgas",
+    "familyPlural": "Edelgase",
+    "familyColor": "#c4b98c",
+    "standardState": "gasförmig",
+    "molarMass": 39.95,
+    "meltingPoint": -189.34,
+    "boilingPoint": -185.848,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 1.784,
+    "densityUnit": "g/L",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 18,
+    "valenceElectrons": 8,
+    "occupiedShells": 3,
+    "firstIonizationEnergy": 1520.6,
+    "atomicRadius": 71.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 1.784
+  },
+  {
+    "id": "k",
+    "name": "Kalium",
+    "symbol": "K",
+    "atomicNumber": 19,
+    "period": 4,
+    "group": 1,
+    "mainGroup": "I",
+    "elementFamily": "Alkalimetall",
+    "familyPlural": "Alkalimetalle",
+    "familyColor": "#f4c95d",
+    "standardState": "fest",
+    "molarMass": 39.098,
+    "meltingPoint": 63.5,
+    "boilingPoint": 759.0,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 0.89,
+    "densityUnit": "g/cm³",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 19,
+    "valenceElectrons": 1,
+    "occupiedShells": 4,
+    "firstIonizationEnergy": 418.8,
+    "atomicRadius": 243.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 890.0
+  },
+  {
+    "id": "ca",
+    "name": "Calcium",
+    "symbol": "Ca",
+    "atomicNumber": 20,
+    "period": 4,
+    "group": 2,
+    "mainGroup": "II",
+    "elementFamily": "Erdalkalimetall",
+    "familyPlural": "Erdalkalimetalle",
+    "familyColor": "#ef8d67",
+    "standardState": "fest",
+    "molarMass": 40.078,
+    "meltingPoint": 842.0,
+    "boilingPoint": 1484.0,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 1.55,
+    "densityUnit": "g/cm³",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 20,
+    "valenceElectrons": 2,
+    "occupiedShells": 4,
+    "firstIonizationEnergy": 589.8,
+    "atomicRadius": 194.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 1550.0
+  },
+  {
+    "id": "ga",
+    "name": "Gallium",
+    "symbol": "Ga",
+    "atomicNumber": 31,
+    "period": 4,
+    "group": 13,
+    "mainGroup": "III",
+    "elementFamily": "Borgruppe",
+    "familyPlural": "Borgruppe",
+    "familyColor": "#e9a6c9",
+    "standardState": "fest",
+    "molarMass": 69.723,
+    "meltingPoint": 29.7646,
+    "boilingPoint": 2400.0,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 5.91,
+    "densityUnit": "g/cm³",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 31,
+    "valenceElectrons": 3,
+    "occupiedShells": 4,
+    "firstIonizationEnergy": 578.8,
+    "atomicRadius": 136.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 5910.0
+  },
+  {
+    "id": "ge",
+    "name": "Germanium",
+    "symbol": "Ge",
+    "atomicNumber": 32,
+    "period": 4,
+    "group": 14,
+    "mainGroup": "IV",
+    "elementFamily": "Kohlenstoffgruppe",
+    "familyPlural": "Kohlenstoffgruppe",
+    "familyColor": "#9fc8df",
+    "standardState": "fest",
+    "molarMass": 72.63,
+    "meltingPoint": 938.25,
+    "boilingPoint": 2833.0,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 5.323,
+    "densityUnit": "g/cm³",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 32,
+    "valenceElectrons": 4,
+    "occupiedShells": 4,
+    "firstIonizationEnergy": 762.0,
+    "atomicRadius": 125.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 5323.0
+  },
+  {
+    "id": "as",
+    "name": "Arsen",
+    "symbol": "As",
+    "atomicNumber": 33,
+    "period": 4,
+    "group": 15,
+    "mainGroup": "V",
+    "elementFamily": "Stickstoffgruppe",
+    "familyPlural": "Stickstoffgruppe",
+    "familyColor": "#c5a1d7",
+    "standardState": "fest",
+    "molarMass": 74.922,
+    "meltingPoint": 817.0,
+    "boilingPoint": 614.0,
+    "sublimationPoint": 614.0,
+    "phaseTransitionLabel": "Sublimationstemperatur",
+    "density": 5.727,
+    "densityUnit": "g/cm³",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 33,
+    "valenceElectrons": 5,
+    "occupiedShells": 4,
+    "firstIonizationEnergy": 947.0,
+    "atomicRadius": 114.0,
+    "note": "Arsen sublimiert bei Normaldruck; der angegebene Schmelzwert gilt unter erhöhtem Druck.",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 5727.0
+  },
+  {
+    "id": "se",
+    "name": "Selen",
+    "symbol": "Se",
+    "atomicNumber": 34,
+    "period": 4,
+    "group": 16,
+    "mainGroup": "VI",
+    "elementFamily": "Erzbildner",
+    "familyPlural": "Chalkogene",
+    "familyColor": "#b5cf98",
+    "standardState": "fest",
+    "molarMass": 78.971,
+    "meltingPoint": 221.0,
+    "boilingPoint": 685.0,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 4.81,
+    "densityUnit": "g/cm³",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 34,
+    "valenceElectrons": 6,
+    "occupiedShells": 4,
+    "firstIonizationEnergy": 941.0,
+    "atomicRadius": 103.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 4810.0
+  },
+  {
+    "id": "br",
+    "name": "Brom",
+    "symbol": "Br",
+    "atomicNumber": 35,
+    "period": 4,
+    "group": 17,
+    "mainGroup": "VII",
+    "elementFamily": "Halogen",
+    "familyPlural": "Halogene",
+    "familyColor": "#5db8c3",
+    "standardState": "flüssig",
+    "molarMass": 79.904,
+    "meltingPoint": -7.3,
+    "boilingPoint": 58.8,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 3.1028,
+    "densityUnit": "g/cm³",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 35,
+    "valenceElectrons": 7,
+    "occupiedShells": 4,
+    "firstIonizationEnergy": 1139.9,
+    "atomicRadius": 94.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 3102.8
+  },
+  {
+    "id": "kr",
+    "name": "Krypton",
+    "symbol": "Kr",
+    "atomicNumber": 36,
+    "period": 4,
+    "group": 18,
+    "mainGroup": "VIII",
+    "elementFamily": "Edelgas",
+    "familyPlural": "Edelgase",
+    "familyColor": "#c4b98c",
+    "standardState": "gasförmig",
+    "molarMass": 83.798,
+    "meltingPoint": -157.37,
+    "boilingPoint": -153.415,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 3.749,
+    "densityUnit": "g/L",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 36,
+    "valenceElectrons": 8,
+    "occupiedShells": 4,
+    "firstIonizationEnergy": 1350.8,
+    "atomicRadius": 88.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 3.749
+  },
+  {
+    "id": "rb",
+    "name": "Rubidium",
+    "symbol": "Rb",
+    "atomicNumber": 37,
+    "period": 5,
+    "group": 1,
+    "mainGroup": "I",
+    "elementFamily": "Alkalimetall",
+    "familyPlural": "Alkalimetalle",
+    "familyColor": "#f4c95d",
+    "standardState": "fest",
+    "molarMass": 85.468,
+    "meltingPoint": 39.3,
+    "boilingPoint": 688.0,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 1.532,
+    "densityUnit": "g/cm³",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 37,
+    "valenceElectrons": 1,
+    "occupiedShells": 5,
+    "firstIonizationEnergy": 403.0,
+    "atomicRadius": 265.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 1532.0
+  },
+  {
+    "id": "sr",
+    "name": "Strontium",
+    "symbol": "Sr",
+    "atomicNumber": 38,
+    "period": 5,
+    "group": 2,
+    "mainGroup": "II",
+    "elementFamily": "Erdalkalimetall",
+    "familyPlural": "Erdalkalimetalle",
+    "familyColor": "#ef8d67",
+    "standardState": "fest",
+    "molarMass": 87.62,
+    "meltingPoint": 777.0,
+    "boilingPoint": 1382.0,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 2.64,
+    "densityUnit": "g/cm³",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 38,
+    "valenceElectrons": 2,
+    "occupiedShells": 5,
+    "firstIonizationEnergy": 549.5,
+    "atomicRadius": 219.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 2640.0
+  },
+  {
+    "id": "in",
+    "name": "Indium",
+    "symbol": "In",
+    "atomicNumber": 49,
+    "period": 5,
+    "group": 13,
+    "mainGroup": "III",
+    "elementFamily": "Borgruppe",
+    "familyPlural": "Borgruppe",
+    "familyColor": "#e9a6c9",
+    "standardState": "fest",
+    "molarMass": 114.82,
+    "meltingPoint": 156.6,
+    "boilingPoint": 2072.0,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 7.31,
+    "densityUnit": "g/cm³",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 49,
+    "valenceElectrons": 3,
+    "occupiedShells": 5,
+    "firstIonizationEnergy": 558.3,
+    "atomicRadius": 156.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 7310.0
+  },
+  {
+    "id": "sn",
+    "name": "Zinn",
+    "symbol": "Sn",
+    "atomicNumber": 50,
+    "period": 5,
+    "group": 14,
+    "mainGroup": "IV",
+    "elementFamily": "Kohlenstoffgruppe",
+    "familyPlural": "Kohlenstoffgruppe",
+    "familyColor": "#9fc8df",
+    "standardState": "fest",
+    "molarMass": 118.71,
+    "meltingPoint": 231.93,
+    "boilingPoint": 2602.0,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 7.265,
+    "densityUnit": "g/cm³",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 50,
+    "valenceElectrons": 4,
+    "occupiedShells": 5,
+    "firstIonizationEnergy": 708.6,
+    "atomicRadius": 145.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 7265.0
+  },
+  {
+    "id": "sb",
+    "name": "Antimon",
+    "symbol": "Sb",
+    "atomicNumber": 51,
+    "period": 5,
+    "group": 15,
+    "mainGroup": "V",
+    "elementFamily": "Stickstoffgruppe",
+    "familyPlural": "Stickstoffgruppe",
+    "familyColor": "#c5a1d7",
+    "standardState": "fest",
+    "molarMass": 121.76,
+    "meltingPoint": 630.63,
+    "boilingPoint": 1635.0,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 6.697,
+    "densityUnit": "g/cm³",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 51,
+    "valenceElectrons": 5,
+    "occupiedShells": 5,
+    "firstIonizationEnergy": 834.0,
+    "atomicRadius": 133.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 6697.0
+  },
+  {
+    "id": "te",
+    "name": "Tellur",
+    "symbol": "Te",
+    "atomicNumber": 52,
+    "period": 5,
+    "group": 16,
+    "mainGroup": "VI",
+    "elementFamily": "Erzbildner",
+    "familyPlural": "Chalkogene",
+    "familyColor": "#b5cf98",
+    "standardState": "fest",
+    "molarMass": 127.6,
+    "meltingPoint": 449.51,
+    "boilingPoint": 988.0,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 6.24,
+    "densityUnit": "g/cm³",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 52,
+    "valenceElectrons": 6,
+    "occupiedShells": 5,
+    "firstIonizationEnergy": 869.3,
+    "atomicRadius": 123.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 6240.0
+  },
+  {
+    "id": "i",
+    "name": "Iod",
+    "symbol": "I",
+    "atomicNumber": 53,
+    "period": 5,
+    "group": 17,
+    "mainGroup": "VII",
+    "elementFamily": "Halogen",
+    "familyPlural": "Halogene",
+    "familyColor": "#5db8c3",
+    "standardState": "fest",
+    "molarMass": 126.9,
+    "meltingPoint": 113.7,
+    "boilingPoint": 184.3,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 4.933,
+    "densityUnit": "g/cm³",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 53,
+    "valenceElectrons": 7,
+    "occupiedShells": 5,
+    "firstIonizationEnergy": 1008.4,
+    "atomicRadius": 115.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 4933.0
+  },
+  {
+    "id": "xe",
+    "name": "Xenon",
+    "symbol": "Xe",
+    "atomicNumber": 54,
+    "period": 5,
+    "group": 18,
+    "mainGroup": "VIII",
+    "elementFamily": "Edelgas",
+    "familyPlural": "Edelgase",
+    "familyColor": "#c4b98c",
+    "standardState": "gasförmig",
+    "molarMass": 131.29,
+    "meltingPoint": -111.75,
+    "boilingPoint": -108.099,
+    "sublimationPoint": null,
+    "phaseTransitionLabel": "Siedetemperatur",
+    "density": 5.894,
+    "densityUnit": "g/L",
+    "densityConditions": "Richtwert; Gase in g/L, kondensierte Stoffe in g/cm³",
+    "protonCount": 54,
+    "valenceElectrons": 8,
+    "occupiedShells": 5,
+    "firstIonizationEnergy": 1170.4,
+    "atomicRadius": 108.0,
+    "note": "",
+    "sources": [
+      {
+        "label": "pgf-PeriodicTable (Datengrundlage)",
+        "url": "https://ctan.org/pkg/pgf-periodictable"
+      },
+      {
+        "label": "PubChem Periodic Table (Abgleich)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/"
+      },
+      {
+        "label": "NIST Chemistry WebBook (Abgleich)",
+        "url": "https://webbook.nist.gov/chemistry/"
+      }
+    ],
+    "densityCompare": 5.894
+  }
+]
